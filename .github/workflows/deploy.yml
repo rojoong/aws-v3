@@ -1,4 +1,4 @@
-name: aws-v3
+name: aws-v3-rojoong
 on:
   push:
     branches:
